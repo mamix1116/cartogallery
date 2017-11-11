@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Carto Gallery - Maps</title><link href="/" rel="alternate"></link><link href="/feeds/maps.atom.xml" rel="self"></link><id>/</id><updated>2017-11-11T08:00:00+09:00</updated><entry><title>品川区 認知症支援マップ</title><link href="/shinagawa_ninchisyo.html" rel="alternate"></link><published>2017-11-11T08:00:00+09:00</published><updated>2017-11-11T08:00:00+09:00</updated><author><name>mamix</name></author><id>tag:None,2017-11-11:/shinagawa_ninchisyo.html</id><summary type="html">&lt;p&gt;品川区の認知症支援施設のマップ。認知症カフェなど&lt;/p&gt;</summary><content type="html">&lt;hr&gt;
+&lt;iframe width="100%" height="520" frameborder="0" src="https://mamix1116.carto.com/builder/dc784a86-a550-45de-9c62-5963bd39072f/embed" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;h3&gt;品川区 認知症支援マップ&lt;/h3&gt;
+&lt;p&gt;品川区の認知症支援施設のマップ。&lt;br&gt;
+&lt;strong&gt;&lt;a href="https://mamix1116.carto.com/builder/dc784a86-a550-45de-9c62-5963bd39072f/embed"&gt;View Online&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;認知症カフェ&lt;/li&gt;
+&lt;li&gt;支え愛・ほっとステーション&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;利用したオープンデータ&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;交番&lt;/li&gt;
+&lt;li&gt;警察署&lt;/li&gt;
+&lt;li&gt;地域センター&lt;/li&gt;
+&lt;/ul&gt;</content><category term="東京都"></category><category term="品川区"></category></entry></feed>
