@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Civic Carto Gallery</title><link href="https://mamix1116.github.io/cartogallery/" rel="alternate"></link><link href="https://mamix1116.github.io/cartogallery/feeds/all.atom.xml" rel="self"></link><id>https://mamix1116.github.io/cartogallery/</id><updated>2017-11-11T14:00:00+09:00</updated><entry><title>品川区 負傷事故・死亡事故マップ</title><link href="https://mamix1116.github.io/cartogallery/shinagawa_jiko.html" rel="alternate"></link><published>2017-11-11T14:00:00+09:00</published><updated>2017-11-11T14:00:00+09:00</updated><author><name>mamix</name></author><id>tag:mamix1116.github.io,2017-11-11:/cartogallery/shinagawa_jiko.html</id><summary type="html">&lt;p&gt;品川区の負傷事故・死亡事故マップ&lt;/p&gt;</summary><content type="html">&lt;hr&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Civic Carto Gallery</title><link href="https://mamix1116.github.io/cartogallery/" rel="alternate"></link><link href="https://mamix1116.github.io/cartogallery/feeds/all.atom.xml" rel="self"></link><id>https://mamix1116.github.io/cartogallery/</id><updated>2017-11-11T16:00:00+09:00</updated><entry><title>川崎障害施設マップ</title><link href="https://mamix1116.github.io/cartogallery/kawasaki_fukushi.html" rel="alternate"></link><published>2017-11-11T16:00:00+09:00</published><updated>2017-11-11T16:00:00+09:00</updated><author><name>mamix</name></author><id>tag:mamix1116.github.io,2017-11-11:/cartogallery/kawasaki_fukushi.html</id><summary type="html">&lt;p&gt;川崎市の障害施設マップ&lt;/p&gt;</summary><content type="html">&lt;hr&gt;
+&lt;iframe width="100%" height="520" frameborder="0" src="https://gunraw10.carto.com/builder/f251b73d-4289-41bf-80b0-2236399248c2/embed" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;h3&gt;川崎障害施設マップ&lt;/h3&gt;
+&lt;p&gt;川崎市の障害施設マップ。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href="https://gunraw10.carto.com/builder/f251b73d-4289-41bf-80b0-2236399248c2/embed"&gt;View Online&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;h3&gt;出典&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.city.kawasaki.jp/shisetsu/category/34-17-0-0-0-0-0-0-0-0.html"&gt;川崎市 福祉施設（障害者など）&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><category term="神奈川県"></category><category term="川崎市"></category></entry><entry><title>品川区 負傷事故・死亡事故マップ</title><link href="https://mamix1116.github.io/cartogallery/shinagawa_jiko.html" rel="alternate"></link><published>2017-11-11T14:00:00+09:00</published><updated>2017-11-11T14:00:00+09:00</updated><author><name>mamix</name></author><id>tag:mamix1116.github.io,2017-11-11:/cartogallery/shinagawa_jiko.html</id><summary type="html">&lt;p&gt;品川区の負傷事故・死亡事故マップ&lt;/p&gt;</summary><content type="html">&lt;hr&gt;
 &lt;iframe width="100%" height="520" frameborder="0" src="https://mamix1116.carto.com/builder/552635e1-df52-4962-9c63-11104c0dfad4/embed" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen&gt;&lt;/iframe&gt;
 
 &lt;h3&gt;品川区 負傷事故・死亡事故マップ&lt;/h3&gt;
