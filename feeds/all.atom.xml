@@ -3,12 +3,12 @@
 &lt;iframe width="100%" height="520" frameborder="0" src="https://mamix1116.carto.com/builder/dc784a86-a550-45de-9c62-5963bd39072f/embed" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen&gt;&lt;/iframe&gt;
 
 &lt;h3&gt;品川区 認知症支援マップ&lt;/h3&gt;
-&lt;p&gt;品川区の認知症支援施設のマップ。&lt;br&gt;
-&lt;strong&gt;&lt;a href="https://mamix1116.carto.com/builder/dc784a86-a550-45de-9c62-5963bd39072f/embed"&gt;View Online&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;品川区の認知症支援施設のマップ。&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;認知症カフェ&lt;/li&gt;
 &lt;li&gt;支え愛・ほっとステーション&lt;/li&gt;
 &lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href="https://mamix1116.carto.com/builder/dc784a86-a550-45de-9c62-5963bd39072f/embed"&gt;View Online&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;h3&gt;利用したオープンデータ&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;交番&lt;/li&gt;
@@ -18,5 +18,7 @@
 &lt;h3&gt;出典&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;xxx&lt;/li&gt;
-&lt;li&gt;yyy&lt;/li&gt;
+&lt;li&gt;
+&lt;h2&gt;yyy&lt;/h2&gt;
+&lt;/li&gt;
 &lt;/ul&gt;</content><category term="東京都"></category><category term="品川区"></category></entry></feed>
