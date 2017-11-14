@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom"><title>Civic Carto Gallery</title><link href="https://mamix1116.github.io/cartogallery/" rel="alternate"></link><link href="https://mamix1116.github.io/cartogallery/feeds/all.atom.xml" rel="self"></link><id>https://mamix1116.github.io/cartogallery/</id><updated>2017-11-14T19:00:00+09:00</updated><entry><title>子育て応援隊缶バッジ配布・設置分布図</title><link href="https://mamix1116.github.io/cartogallery/kohoku_canbadge.html" rel="alternate"></link><published>2017-11-14T19:00:00+09:00</published><updated>2017-11-14T19:00:00+09:00</updated><author><name>mamix</name></author><id>tag:mamix1116.github.io,2017-11-14:/cartogallery/kohoku_canbadge.html</id><summary type="html">&lt;p&gt;港北区「子育て応援隊」缶バッジ配布・設置分布図&lt;/p&gt;</summary><content type="html">&lt;hr&gt;
-&lt;iframe width="100%" height="100%" frameborder="0" src="https://ouentai.carto.com/builder/29bde5a5-4800-43fe-9281-e2d51f816711/embed" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe width="100%" height="520" frameborder="0" src="https://ouentai.carto.com/builder/29bde5a5-4800-43fe-9281-e2d51f816711/embed" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen&gt;&lt;/iframe&gt;
 
 &lt;h3&gt;港北区「子育て応援隊」缶バッジ配布・設置分布図&lt;/h3&gt;
 &lt;p&gt;&lt;a href="https://kohoku-net-whip.jimdo.com/"&gt;子育て応援隊 FROM こうほくnetほいっぷ&lt;/a&gt;は、横浜市港北区を中心に、色々なアイディアを出し合って、もっと子育てしやすくなる形を、地域の子育て中のみんなで考えて一緒に作っていくための、子育て当事者グループ。&lt;br&gt;
