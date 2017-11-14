@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Civic Carto Gallery - Maps</title><link href="https://mamix1116.github.io/cartogallery/" rel="alternate"></link><link href="https://mamix1116.github.io/cartogallery/feeds/maps.atom.xml" rel="self"></link><id>https://mamix1116.github.io/cartogallery/</id><updated>2017-11-11T16:00:00+09:00</updated><entry><title>川崎障害施設マップ</title><link href="https://mamix1116.github.io/cartogallery/kawasaki_fukushi.html" rel="alternate"></link><published>2017-11-11T16:00:00+09:00</published><updated>2017-11-11T16:00:00+09:00</updated><author><name>mamix</name></author><id>tag:mamix1116.github.io,2017-11-11:/cartogallery/kawasaki_fukushi.html</id><summary type="html">&lt;p&gt;川崎市の障害施設マップ&lt;/p&gt;</summary><content type="html">&lt;hr&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Civic Carto Gallery - Maps</title><link href="https://mamix1116.github.io/cartogallery/" rel="alternate"></link><link href="https://mamix1116.github.io/cartogallery/feeds/maps.atom.xml" rel="self"></link><id>https://mamix1116.github.io/cartogallery/</id><updated>2017-11-14T19:00:00+09:00</updated><entry><title>「子育て応援隊」缶バッジ配布・設置分布図</title><link href="https://mamix1116.github.io/cartogallery/kohoku_canbadge.html" rel="alternate"></link><published>2017-11-14T19:00:00+09:00</published><updated>2017-11-14T19:00:00+09:00</updated><author><name>mamix</name></author><id>tag:mamix1116.github.io,2017-11-14:/cartogallery/kohoku_canbadge.html</id><summary type="html">&lt;p&gt;港北区「子育て応援隊」缶バッジ配布・設置分布図&lt;/p&gt;</summary><content type="html">&lt;hr&gt;
+&lt;iframe width="100%" height="520" frameborder="0" src="https://ouentai.carto.com/builder/29bde5a5-4800-43fe-9281-e2d51f816711/embed" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;h3&gt;港北区「子育て応援隊」缶バッジ配布・設置分布図&lt;/h3&gt;
+&lt;p&gt;(子育て応援隊 FROM こうほくnetほいっぷ)[https://kohoku-net-whip.jimdo.com/]は、横浜市港北区を中心に、色々なアイディアを出し合って、もっと子育てしやすくなる形を、地域の子育て中のみんなで考えて一緒に作っていくための、子育て当事者グループ。&lt;br&gt;
+「子育て応援隊缶バッジ」を作成し、&lt;em&gt;誰かに「ちょっと」手を貸してもらいたい&lt;/em&gt;、&lt;em&gt;「ちょっと」手伝ってあげたい&lt;/em&gt; という時に、地域で声をかけやすくなるような「支えあいの輪」を広げています。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href="https://kohoku-net-whip.jimdo.com/%E7%BC%B6%E3%83%90%E3%83%83%E3%82%B8%E8%A8%AD%E7%BD%AE%E6%96%BD%E8%A8%AD/"&gt;View Online&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;h3&gt;作成者&lt;/h3&gt;
+&lt;p&gt;子育て応援隊 FROM こうほくnetほいっぷ&lt;/p&gt;</content><category term="神奈川県"></category><category term="港北区"></category></entry><entry><title>川崎障害施設マップ</title><link href="https://mamix1116.github.io/cartogallery/kawasaki_fukushi.html" rel="alternate"></link><published>2017-11-11T16:00:00+09:00</published><updated>2017-11-11T16:00:00+09:00</updated><author><name>mamix</name></author><id>tag:mamix1116.github.io,2017-11-11:/cartogallery/kawasaki_fukushi.html</id><summary type="html">&lt;p&gt;川崎市の障害施設マップ&lt;/p&gt;</summary><content type="html">&lt;hr&gt;
 &lt;iframe width="100%" height="520" frameborder="0" src="https://gunraw10.carto.com/builder/f251b73d-4289-41bf-80b0-2236399248c2/embed" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen&gt;&lt;/iframe&gt;
 
 &lt;h3&gt;川崎障害施設マップ&lt;/h3&gt;
@@ -10,7 +18,7 @@
 &lt;h3&gt;出典&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="http://www.city.kawasaki.jp/shisetsu/category/34-17-0-0-0-0-0-0-0-0.html"&gt;川崎市 福祉施設（障害者など）&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content><category term="神奈川県"></category><category term="川崎市"></category></entry><entry><title>アーバンデータチャレンジ2017 地域拠点</title><link href="https://mamix1116.github.io/cartogallery/urbandatachallenge.html" rel="alternate"></link><published>2017-11-11T16:00:00+09:00</published><updated>2017-11-11T16:00:00+09:00</updated><author><name>mamix</name></author><id>tag:mamix1116.github.io,2017-11-11:/cartogallery/urbandatachallenge.html</id><summary type="html">&lt;p&gt;川崎市の障害施設マップ&lt;/p&gt;</summary><content type="html">&lt;hr&gt;
+&lt;/ul&gt;</content><category term="神奈川県"></category><category term="川崎市"></category></entry><entry><title>アーバンデータチャレンジ2017 地域拠点</title><link href="https://mamix1116.github.io/cartogallery/urbandatachallenge.html" rel="alternate"></link><published>2017-11-11T16:00:00+09:00</published><updated>2017-11-11T16:00:00+09:00</updated><author><name>mamix</name></author><id>tag:mamix1116.github.io,2017-11-11:/cartogallery/urbandatachallenge.html</id><summary type="html">&lt;p&gt;アーバンデータチャレンジ2017の地域拠点&lt;/p&gt;</summary><content type="html">&lt;hr&gt;
 &lt;iframe width="100%" height="520" frameborder="0" src="https://urbandatachallenge.carto.com/builder/f39630b4-31f4-11e6-bcaf-0e674067d321/embed" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen&gt;&lt;/iframe&gt;
 
 &lt;h3&gt;:アーバンデータチャレンジ2017 地域拠点&lt;/h3&gt;
@@ -33,8 +41,7 @@
 &lt;h3&gt;利用したオープンデータ&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;負傷事故 H25, H26, H27, H28&lt;/li&gt;
-&lt;li&gt;死亡事故 H25, H26, H27, H28
-http://www.city.shinagawa.tokyo.jp/hp/menu000024200/hpg000024168.htm&lt;/li&gt;
+&lt;li&gt;死亡事故 H25, H26, H27, H28  &lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3&gt;出典&lt;/h3&gt;
 &lt;ul&gt;
