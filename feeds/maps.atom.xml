@@ -1,5 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Civic Carto Gallery - Maps</title><link href="https://mamix1116.github.io/cartogallery/" rel="alternate"></link><link href="https://mamix1116.github.io/cartogallery/feeds/maps.atom.xml" rel="self"></link><id>https://mamix1116.github.io/cartogallery/</id><updated>2017-11-14T19:00:00+09:00</updated><entry><title>子育て応援隊缶バッジ配布・設置分布図</title><link href="https://mamix1116.github.io/cartogallery/kohoku_canbadge.html" rel="alternate"></link><published>2017-11-14T19:00:00+09:00</published><updated>2017-11-14T19:00:00+09:00</updated><author><name>mamix</name></author><id>tag:mamix1116.github.io,2017-11-14:/cartogallery/kohoku_canbadge.html</id><summary type="html">&lt;p&gt;港北区「子育て応援隊」缶バッジ配布・設置分布図&lt;/p&gt;</summary><content type="html">&lt;hr&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Civic Carto Gallery - Maps</title><link href="https://mamix1116.github.io/cartogallery/" rel="alternate"></link><link href="https://mamix1116.github.io/cartogallery/feeds/maps.atom.xml" rel="self"></link><id>https://mamix1116.github.io/cartogallery/</id><updated>2017-11-15T22:00:00+09:00</updated><entry><title>北海道一般民有林 樹種区分 2015</title><link href="https://mamix1116.github.io/cartogallery/hokkaido_minyurin.html" rel="alternate"></link><published>2017-11-15T22:00:00+09:00</published><updated>2017-11-15T22:00:00+09:00</updated><author><name>mamix</name></author><id>tag:mamix1116.github.io,2017-11-15:/cartogallery/hokkaido_minyurin.html</id><summary type="html">&lt;p&gt;民有林のデータを可視化。北海道は広いから、4つの地区に区分してある。&lt;/p&gt;</summary><content type="html">&lt;hr&gt;
+&lt;h3&gt;北海道一般民有林　樹種区分　2015　渡島、檜山、後志&lt;/h3&gt;
+&lt;p&gt;&lt;iframe width="100%" height="520" frameborder="0" src="https://tetsujiishii.carto.com/viz/991f3e0c-45de-11e6-87a4-0ee66e2c9693/public_map" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;h3&gt;北海道一般民有林　樹種区分　2015　胆振、日高、石狩、空知&lt;/h3&gt;
+&lt;p&gt;&lt;iframe width="100%" height="520" frameborder="0" src="https://koukita.carto.com/viz/0c0bf03a-623c-11e6-a05d-0e05a8b3e3d7/public_map" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;h3&gt;北海道一般民有林　樹種区分　2015　上川、留萌、宗谷&lt;/h3&gt;
+&lt;p&gt;&lt;iframe width="100%" height="520" frameborder="0" src="https://koukita.carto.com/viz/865edb20-62de-11e6-b7d8-0e3ff518bd15/public_map" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;h3&gt;北海道一般民有林　樹種区分　2015　オホーツク、根室、釧路、十勝&lt;/h3&gt;
+&lt;p&gt;&lt;iframe width="100%" height="520" frameborder="0" src="https://koukita.carto.com/viz/cc620ae2-62df-11e6-b3c8-0ee66e2c9693/public_map" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;h3&gt;北海道一般民有林　樹種区分　2015&lt;/h3&gt;
+&lt;p&gt;北海道オープンデータである一般民有林の小班GISデータに樹種の情報を結合し、一般民有林の樹種区分を地図化しました。&lt;br&gt;
+北海道は広いため、4つの地区に区分しています。&lt;/p&gt;
+&lt;h3&gt;利用したオープンデータ&lt;/h3&gt;
+&lt;p&gt;&lt;a href="https://sites.google.com/site/kibanshapehokkaido/hokkaidoshinrin"&gt;北海道一般民有林森林計画関係資料&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;作成者&lt;/h3&gt;
+&lt;p&gt;&lt;a href="https://sites.google.com/site/kibanshapehokkaido/hokkaidoshinrin"&gt;喜多耕一&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;出典&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://gifu-opendata.pref.gifu.lg.jp/open/dataset/c11229-001"&gt;岐阜県オープンデータ：県有施設ＡＥＤマップ&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><category term="北海道"></category></entry><entry><title>岐阜県AEDマップ</title><link href="https://mamix1116.github.io/cartogallery/gifu_aed.html" rel="alternate"></link><published>2017-11-15T21:00:00+09:00</published><updated>2017-11-15T21:00:00+09:00</updated><author><name>mamix</name></author><id>tag:mamix1116.github.io,2017-11-15:/cartogallery/gifu_aed.html</id><summary type="html">&lt;p&gt;岐阜県のオープンデータを活用。クラスタ表示で全体像がわかりやすいね。&lt;/p&gt;</summary><content type="html">&lt;iframe width="100%" height="520" frameborder="0" src="https://tetsujiishii.carto.com/viz/991f3e0c-45de-11e6-87a4-0ee66e2c9693/public_map" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;h3&gt;岐阜県AEDマップ&lt;/h3&gt;
+&lt;p&gt;岐阜県のオープンデータを活用しています。&lt;/p&gt;
+&lt;h3&gt;作成者&lt;/h3&gt;
+&lt;p&gt;石井哲治&lt;/p&gt;
+&lt;h3&gt;出典&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://gifu-opendata.pref.gifu.lg.jp/open/dataset/c11229-001"&gt;岐阜県オープンデータ：県有施設ＡＥＤマップ&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><category term="岐阜県"></category></entry><entry><title>子育て応援隊缶バッジ配布・設置分布図</title><link href="https://mamix1116.github.io/cartogallery/kohoku_canbadge.html" rel="alternate"></link><published>2017-11-14T19:00:00+09:00</published><updated>2017-11-14T19:00:00+09:00</updated><author><name>mamix</name></author><id>tag:mamix1116.github.io,2017-11-14:/cartogallery/kohoku_canbadge.html</id><summary type="html">&lt;p&gt;缶バッジの広がりが見えてくる&lt;/p&gt;</summary><content type="html">&lt;hr&gt;
 &lt;iframe width="100%" height="520" frameborder="0" src="https://ouentai.carto.com/builder/29bde5a5-4800-43fe-9281-e2d51f816711/embed" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen&gt;&lt;/iframe&gt;
 
 &lt;h3&gt;港北区「子育て応援隊」缶バッジ配布・設置分布図&lt;/h3&gt;
@@ -8,7 +36,7 @@
 &lt;h3&gt;作成者：&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;子育て応援隊 FROM こうほくnetほいっぷ&lt;/li&gt;
-&lt;/ul&gt;</content><category term="神奈川県"></category><category term="港北区"></category></entry><entry><title>川崎障害施設マップ</title><link href="https://mamix1116.github.io/cartogallery/kawasaki_fukushi.html" rel="alternate"></link><published>2017-11-11T16:00:00+09:00</published><updated>2017-11-11T16:00:00+09:00</updated><author><name>mamix</name></author><id>tag:mamix1116.github.io,2017-11-11:/cartogallery/kawasaki_fukushi.html</id><summary type="html">&lt;p&gt;川崎市の障害施設マップ&lt;/p&gt;</summary><content type="html">&lt;hr&gt;
+&lt;/ul&gt;</content><category term="神奈川県"></category><category term="港北区"></category></entry><entry><title>川崎障害施設マップ</title><link href="https://mamix1116.github.io/cartogallery/kawasaki_fukushi.html" rel="alternate"></link><published>2017-11-11T16:00:00+09:00</published><updated>2017-11-11T16:00:00+09:00</updated><author><name>mamix</name></author><id>tag:mamix1116.github.io,2017-11-11:/cartogallery/kawasaki_fukushi.html</id><summary type="html">&lt;p&gt;フォントを大きめにしたり見やすさを工夫している点がいいね！&lt;/p&gt;</summary><content type="html">&lt;hr&gt;
 &lt;iframe width="100%" height="520" frameborder="0" src="https://gunraw10.carto.com/builder/f251b73d-4289-41bf-80b0-2236399248c2/embed" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen&gt;&lt;/iframe&gt;
 
 &lt;h3&gt;川崎障害施設マップ&lt;/h3&gt;
@@ -19,7 +47,7 @@
 &lt;h3&gt;出典&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="http://www.city.kawasaki.jp/shisetsu/category/34-17-0-0-0-0-0-0-0-0.html"&gt;川崎市 福祉施設（障害者など）&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content><category term="神奈川県"></category><category term="川崎市"></category></entry><entry><title>アーバンデータチャレンジ2017 地域拠点</title><link href="https://mamix1116.github.io/cartogallery/urbandatachallenge.html" rel="alternate"></link><published>2017-11-11T16:00:00+09:00</published><updated>2017-11-11T16:00:00+09:00</updated><author><name>mamix</name></author><id>tag:mamix1116.github.io,2017-11-11:/cartogallery/urbandatachallenge.html</id><summary type="html">&lt;p&gt;アーバンデータチャレンジ2017の地域拠点&lt;/p&gt;</summary><content type="html">&lt;hr&gt;
+&lt;/ul&gt;</content><category term="神奈川県"></category><category term="川崎市"></category></entry><entry><title>アーバンデータチャレンジ2017 地域拠点</title><link href="https://mamix1116.github.io/cartogallery/urbandatachallenge.html" rel="alternate"></link><published>2017-11-11T16:00:00+09:00</published><updated>2017-11-11T16:00:00+09:00</updated><author><name>mamix</name></author><id>tag:mamix1116.github.io,2017-11-11:/cartogallery/urbandatachallenge.html</id><summary type="html">&lt;p&gt;年々ひろがる地域拠点。カラフルなマップが目をひくね。&lt;/p&gt;</summary><content type="html">&lt;hr&gt;
 &lt;iframe width="100%" height="520" frameborder="0" src="https://urbandatachallenge.carto.com/builder/f39630b4-31f4-11e6-bcaf-0e674067d321/embed" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen&gt;&lt;/iframe&gt;
 
 &lt;h3&gt;:アーバンデータチャレンジ2017 地域拠点&lt;/h3&gt;
@@ -29,7 +57,7 @@
 2017年度は40の地域拠点（都道府県ブロック・予定）が地域の核となり、地理空間情報の流通や利活用を日本各地でさらに促進しています。  &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;&lt;a href="https://urbandatachallenge.carto.com/builder/f39630b4-31f4-11e6-bcaf-0e674067d321/embed"&gt;View Online&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;h3&gt;作成者&lt;/h3&gt;
-&lt;p&gt;アーバンデータチャレンジ 実行委員 事務局&lt;/p&gt;</content><category term="神奈川県"></category><category term="川崎市"></category></entry><entry><title>品川区 負傷事故・死亡事故マップ</title><link href="https://mamix1116.github.io/cartogallery/shinagawa_jiko.html" rel="alternate"></link><published>2017-11-11T14:00:00+09:00</published><updated>2017-11-11T14:00:00+09:00</updated><author><name>mamix</name></author><id>tag:mamix1116.github.io,2017-11-11:/cartogallery/shinagawa_jiko.html</id><summary type="html">&lt;p&gt;品川区の負傷事故・死亡事故マップ&lt;/p&gt;</summary><content type="html">&lt;hr&gt;
+&lt;p&gt;アーバンデータチャレンジ 実行委員 事務局&lt;/p&gt;</content><category term="神奈川県"></category><category term="川崎市"></category></entry><entry><title>品川区 負傷事故・死亡事故マップ</title><link href="https://mamix1116.github.io/cartogallery/shinagawa_jiko.html" rel="alternate"></link><published>2017-11-11T14:00:00+09:00</published><updated>2017-11-11T14:00:00+09:00</updated><author><name>mamix</name></author><id>tag:mamix1116.github.io,2017-11-11:/cartogallery/shinagawa_jiko.html</id><summary type="html">&lt;p&gt;どうしたら事故が減るのかなぁ&lt;/p&gt;</summary><content type="html">&lt;hr&gt;
 &lt;iframe width="100%" height="520" frameborder="0" src="https://mamix1116.carto.com/builder/552635e1-df52-4962-9c63-11104c0dfad4/embed" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen&gt;&lt;/iframe&gt;
 
 &lt;h3&gt;品川区 負傷事故・死亡事故マップ&lt;/h3&gt;
@@ -47,7 +75,7 @@
 &lt;h3&gt;出典&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="http://www.city.shinagawa.tokyo.jp/hp/menu000024200/hpg000024168.htm"&gt;品川区 オープンデータ&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content><category term="東京都"></category><category term="品川区"></category></entry><entry><title>品川区 認知症支援マップ</title><link href="https://mamix1116.github.io/cartogallery/shinagawa_ninchisyo.html" rel="alternate"></link><published>2017-11-11T08:00:00+09:00</published><updated>2017-11-11T08:00:00+09:00</updated><author><name>mamix</name></author><id>tag:mamix1116.github.io,2017-11-11:/cartogallery/shinagawa_ninchisyo.html</id><summary type="html">&lt;p&gt;品川区の認知症支援施設のマップ。認知症カフェなど&lt;/p&gt;</summary><content type="html">&lt;hr&gt;
+&lt;/ul&gt;</content><category term="東京都"></category><category term="品川区"></category></entry><entry><title>品川区 認知症支援マップ</title><link href="https://mamix1116.github.io/cartogallery/shinagawa_ninchisyo.html" rel="alternate"></link><published>2017-11-11T08:00:00+09:00</published><updated>2017-11-11T08:00:00+09:00</updated><author><name>mamix</name></author><id>tag:mamix1116.github.io,2017-11-11:/cartogallery/shinagawa_ninchisyo.html</id><summary type="html">&lt;p&gt;認知症カフェは、認知症の方が外出するきっかけにも&lt;/p&gt;</summary><content type="html">&lt;hr&gt;
 &lt;iframe width="100%" height="520" frameborder="0" src="https://mamix1116.carto.com/builder/dc784a86-a550-45de-9c62-5963bd39072f/embed" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen&gt;&lt;/iframe&gt;
 
 &lt;h3&gt;品川区 認知症支援マップ&lt;/h3&gt;
