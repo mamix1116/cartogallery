@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom"><title>Civic Carto Gallery</title><link href="https://mamix1116.github.io/cartogallery/" rel="alternate"></link><link href="https://mamix1116.github.io/cartogallery/feeds/all.atom.xml" rel="self"></link><id>https://mamix1116.github.io/cartogallery/</id><updated>2017-11-20T21:00:00+09:00</updated><entry><title>安城市避難所／避難場所マップ</title><link href="https://mamix1116.github.io/cartogallery/anjyo_hinan.html" rel="alternate"></link><published>2017-11-20T21:00:00+09:00</published><updated>2017-11-20T21:00:00+09:00</updated><author><name>mamix</name></author><id>tag:mamix1116.github.io,2017-11-20:/cartogallery/anjyo_hinan.html</id><summary type="html">&lt;p&gt;ベース図に航空写真を使ってる。避難所の周りの様子が見て取れるね。&lt;/p&gt;</summary><content type="html">&lt;hr&gt;
-&lt;iframe width="100%" height="520" frameborder="0" src="https://tetsujiishii.carto.com/viz/d3d8ad92-77c7-11e6-ba10-0e3ebc282e83/embed_map" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe width="100%" height="520" frameborder="0" src="https://kandenti2001.carto.com/viz/d3d8ad92-77c7-11e6-ba10-0e3ebc282e83/embed_map" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen&gt;&lt;/iframe&gt;
 
 &lt;h3&gt;安城市避難所／避難場所マップ&lt;/h3&gt;
 &lt;p&gt;アドレスマッチングで若干ズレている部分がありますが、容赦ください。&lt;/p&gt;
